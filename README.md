@@ -122,7 +122,7 @@ class Calculator {
 	Equals = new JButton("=");
 	Equals.setFont(f);
 	Equals.setBounds(122,222,45,45);
-	Equals.setBackground(Color.RED);
+	Equals.setBackground(Color.GRAY);
 	frame.getContentPane().add(Equals);
 	
 	Divide = new JButton("/");
